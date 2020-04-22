@@ -1,0 +1,24 @@
+{
+  "name": "notetakingapp",
+  "version": "1.0.0",
+  "description": "Note Taking App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AutomateEarth/note_taking_app.git"
+  },
+  "author": "Jim Peterson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AutomateEarth/note_taking_app/issues"
+  },
+  "homepage": "https://github.com/AutomateEarth/note_taking_app#readme",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "validator": "^13.0.0",
+    "yargs": "^15.3.1"
+  }
+}
